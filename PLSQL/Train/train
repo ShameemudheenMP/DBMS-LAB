@@ -7,3 +7,4 @@ insert into train values(5, 'Rajadhani', '21-05-2022', 'Delhi', 150);
 
 @/home/csdb05/Ajay/PLSQL/train.sql
 @/home/csdb05/Ajay/PLSQL/train2.sql
+@/home/csdb05/Ajay/PLSQL/train2.sql
